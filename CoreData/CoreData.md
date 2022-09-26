@@ -1,6 +1,6 @@
 # Core Data
 
-自定义由四个 `Core Data`类构成：
+`Core Data` 四个关键类：
 
 * `NSManagedObjectModel`
 * `NSPersistentStore`
